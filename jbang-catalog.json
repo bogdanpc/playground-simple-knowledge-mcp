@@ -1,0 +1,9 @@
+{
+  "catalogs": {},
+  "aliases": {
+    "KnowledgeMCP": {
+      "script-ref": "KnowledgeMCP.java",
+      "description": "Simple Knowledge MCP server with RAG and SQLite vector search"
+    }
+  }
+}
